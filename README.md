@@ -1,2 +1,6 @@
-# Thesis
-Summary of PhD Thesis - Development of Cu-Based Materials for Optoelectronic Applications
+# Thesis summary
+Title - Development of Cu-Based Materials for Optoelectronic Applications
+
+Abstract
+
+CIGS and CdTe based commercial thin- lm solar cells (TFSCs) require an absorber thickness greater than 2 m and 4 m, respectively, to adequately absorb the solar spectrum. To e ciently extract photoexcited electrons, these TFSCs require relatively defect-free absorbers with high-minority carrier mobility (> 100 cm2V􀀀1s􀀀1) and long lifetime (> 10 ns). Developing a superabsorbing Cu-based semiconductor allows for use of a much thinner (< 750 nm) absorber that is more defect-tolerant than CIGS and CdTe. Reducing the absorber thickness results in a drift-based TFSC that has a built-in electric eld to aid in the extraction of photoexcited electrons. Based on simulation, a drift-based TFSC, with a reduced absorber thickness of 250 nm can achieve an e ciency in excess of 18% even with a low minority carrier mobility of 10 cm2V􀀀1s􀀀1 and a short minority carrier lifetime of 1 ns. Several types of Cu-based thin lms are investigated. Cu3SbS4 and Cu12Sb2Te2S13 (CATS) are shown to have extremely strong optical absorption and desirable electrical properties for drift-based TFSC applications. Cu3TaS4 (CTS) is explored as an inorganic luminescent material for use in a novel inorganic light-emitting device (ILED). However, use of these thin lms cannot proceed until a new synthesis methodology is identi ed (or invented) to deposit stoichiometrically-precise, morphologically-homogeneous Cu-based thin lms.
